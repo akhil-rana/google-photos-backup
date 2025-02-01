@@ -1,3 +1,7 @@
+
+My own version of Google Photos Backup with aria2c support for downloading files. This makes it way faster.
+
+
 <div align="center">
 <h1>Google Photos Backup <a href=""><img alt="npm" src="https://img.shields.io/github/package-json/v/vikas5914/google-photos-backup/master"></a></h1>
 </div>
